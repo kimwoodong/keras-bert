@@ -6,3 +6,9 @@ See the accompanying blog post with further description
 
 https://towardsdatascience.com/bert-in-keras-with-tensorflow-hub-76bcbc9417b
 https://colab.research.google.com/github/google-research/bert/blob/master/predicting_movie_reviews_with_bert_on_tf_hub.ipynb
+
+## Dataset
+First, let's download the dataset, hosted by Stanford.
+the IMDB Large Movie Review Dataset, is borrowed from [this Tensorflow tutorial](https://www.tensorflow.org/hub/tutorials/text_classification_with_tf_hub).
+
+*** BERT.zip --> train_data.pickle & test_data.pickle
