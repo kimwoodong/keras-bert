@@ -12,3 +12,15 @@ First, let's download the dataset, hosted by Stanford.
 the IMDB Large Movie Review Dataset, is borrowed from [this Tensorflow tutorial](https://www.tensorflow.org/hub/tutorials/text_classification_with_tf_hub).
 
 *** BERT.zip --> train_data.pickle & test_data.pickle
+
+```python
+import pickle
+
+# load
+with open('train_data.pickle', 'rb') as f:
+    train = pickle.load(f)
+    
+# load
+with open('test_data.pickle', 'rb') as f:
+    test = pickle.load(f)
+```
