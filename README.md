@@ -3,5 +3,6 @@ Following on our [previous demo using ELMo embeddings in Keras with tensorflow h
 
 See the accompanying blog post with further description
 
-(참고 사이트)
+
 https://towardsdatascience.com/bert-in-keras-with-tensorflow-hub-76bcbc9417b
+https://colab.sandbox.google.com/github/tensorflow/tpu/blob/master/tools/colab/bert_finetuning_with_cloud_tpus.ipynb
