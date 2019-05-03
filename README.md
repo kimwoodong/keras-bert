@@ -5,4 +5,4 @@ See the accompanying blog post with further description
 
 
 https://towardsdatascience.com/bert-in-keras-with-tensorflow-hub-76bcbc9417b
-https://colab.sandbox.google.com/github/tensorflow/tpu/blob/master/tools/colab/bert_finetuning_with_cloud_tpus.ipynb
+https://colab.research.google.com/github/google-research/bert/blob/master/predicting_movie_reviews_with_bert_on_tf_hub.ipynb
